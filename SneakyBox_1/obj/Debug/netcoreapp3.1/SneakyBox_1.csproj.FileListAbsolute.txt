@@ -1,0 +1,13 @@
+D:\Programavimo_Project\SneakyBox\SneakyBox_1\bin\Debug\netcoreapp3.1\SneakyBox_1.exe
+D:\Programavimo_Project\SneakyBox\SneakyBox_1\bin\Debug\netcoreapp3.1\SneakyBox_1.deps.json
+D:\Programavimo_Project\SneakyBox\SneakyBox_1\bin\Debug\netcoreapp3.1\SneakyBox_1.runtimeconfig.json
+D:\Programavimo_Project\SneakyBox\SneakyBox_1\bin\Debug\netcoreapp3.1\SneakyBox_1.runtimeconfig.dev.json
+D:\Programavimo_Project\SneakyBox\SneakyBox_1\bin\Debug\netcoreapp3.1\SneakyBox_1.dll
+D:\Programavimo_Project\SneakyBox\SneakyBox_1\bin\Debug\netcoreapp3.1\SneakyBox_1.pdb
+D:\Programavimo_Project\SneakyBox\SneakyBox_1\obj\Debug\netcoreapp3.1\SneakyBox_1.csprojAssemblyReference.cache
+D:\Programavimo_Project\SneakyBox\SneakyBox_1\obj\Debug\netcoreapp3.1\SneakyBox_1.AssemblyInfoInputs.cache
+D:\Programavimo_Project\SneakyBox\SneakyBox_1\obj\Debug\netcoreapp3.1\SneakyBox_1.AssemblyInfo.cs
+D:\Programavimo_Project\SneakyBox\SneakyBox_1\obj\Debug\netcoreapp3.1\SneakyBox_1.csproj.CoreCompileInputs.cache
+D:\Programavimo_Project\SneakyBox\SneakyBox_1\obj\Debug\netcoreapp3.1\SneakyBox_1.dll
+D:\Programavimo_Project\SneakyBox\SneakyBox_1\obj\Debug\netcoreapp3.1\SneakyBox_1.pdb
+D:\Programavimo_Project\SneakyBox\SneakyBox_1\obj\Debug\netcoreapp3.1\SneakyBox_1.genruntimeconfig.cache
