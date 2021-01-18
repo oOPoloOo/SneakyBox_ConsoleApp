@@ -4,9 +4,10 @@ using System.Text;
 
 
 namespace SneakyBox_1
-{
+{   
     public class SBox_1Modifier : SBox_1
-    {
+    {   
+        //String to print out then input is not correct
         public string badInputType { get; set; } = "Bad input type. | ";
 
         private int? IsInt(string eilute)
@@ -21,6 +22,11 @@ namespace SneakyBox_1
             _functions.Clear();
         }
 
+        /// <summary>
+        /// This class anables to change,
+        /// add, switch places functions. 
+        /// </summary>
+        /// <param name="useCase">Parameter show which ruleset to use</param>
         public void PopulateWithData(int useCase)
         {
             switch (useCase)

@@ -6,6 +6,10 @@ namespace SneakyBox_1
 {
     class LocalTest 
     {
+        /// <summary>
+        /// Test clas mainly used to develop program
+        /// </summary>
+        /// <param name="args"></param>
         static void Main(string[] args)
         {
             SBox_1Modifier sneakyBoxMod = new SBox_1Modifier();
